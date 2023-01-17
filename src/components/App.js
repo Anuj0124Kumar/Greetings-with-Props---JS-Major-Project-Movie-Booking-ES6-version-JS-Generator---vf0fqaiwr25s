@@ -4,9 +4,13 @@ import Welcome from './Welcome';
 
 const App = () => {
   return (
+<<<<<<< HEAD
     <>
     <Welcome name="" />
     </>
+=======
+     
+>>>>>>> refs/remotes/origin/main
   )
 }
 
